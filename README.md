@@ -10,6 +10,29 @@ Mục tiêu của trò chơi là người chơi trải nghiệm một hành trì
 
 Tất cả file gốc của dự án sẽ ở trong thư mục ***Orginal source code***.
 
+Original source code/
+├── Data/
+│   ├── Font/
+│   ├── Images/
+│   ├── Maps/
+│   ├── SFX/
+│   │   ├── Icon.ico
+│   │   ├── Icon.png
+├── Scripts/
+│   ├── __pycache__/
+│   ├── BackgroundEntities.py
+│   ├── DevUtils.py
+│   ├── Entities.py
+│   ├── Particle.py
+│   ├── Spark.py
+│   ├── Tilemap.py
+│   ├── Cutscene.py
+│   ├── Editor.py
+│   ├── Game.py
+│   ├── Menu.py
+│   ├── Menu.spec
+│   ├── PausedGame.py
+
 ---
 
 ## 2. Lối chơi  
